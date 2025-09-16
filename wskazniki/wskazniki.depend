@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1756799880 source:c:\users\egzamin\desktop\wskazniki\main.cpp
+	<iostream>
+
+1757400878 source:e:\pawlyszcze 4 klasa\wskazniki\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
