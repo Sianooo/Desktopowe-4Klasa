@@ -38,22 +38,27 @@ int main() {
 
         cout << "Czy chcesz dodac nastepny element do listy? (t/n): ";
         cin >> decyzja;
-    } while (decyzja == 't' || decyzja == 'n');
+        } while (decyzja == 't' || decyzja == 'T');
 
-    uczen* temp = glowa;
-    while (temp != NULL) {
-        cout << temp->imie << endl;
-        cout << temp->wzrost << endl;
-        temp = temp->nastepnyElement;
-    }
+        uczen* temp = glowa;
+        while (temp != NULL) {
+            cout << temp->imie << endl;
+            cout << temp->wzrost << endl;
+            temp = temp->nastepnyElement;
+        }
 
-    // Zwolnienie pamiêci
-    /*temp = glowa;
-    while (temp != NULL) {
-        uczen* doUsuniecia = temp;
-        temp = temp->nastepnyElement;
-        delete doUsuniecia;
-    }*/
+        temp=glowa->nastepnyElement;
+        while(temp!=NULL){
+            if(temp->wzrost>temp->poprzedniElement->wzrost && temp->wzrost>temp->nastepnyElement->wzrost){
+                cout << temp->imie << endl;
+                cout << temp->wzrost << endl;
+                temp = temp->nastepnyElement;
+            }else{
+                temp=temp->nastepnyElement;
+            }
+        }
+
+
 
     return 0;
 }
