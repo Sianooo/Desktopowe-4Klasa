@@ -1,0 +1,11 @@
+D:\Pawlyszcze 4 klasa\Tablica dwuwymiarowa\bin\Debug\Tablica dwuwymiarowa.exe.config
+D:\Pawlyszcze 4 klasa\Tablica dwuwymiarowa\bin\Debug\Tablica dwuwymiarowa.exe
+D:\Pawlyszcze 4 klasa\Tablica dwuwymiarowa\bin\Debug\Tablica dwuwymiarowa.pdb
+D:\Pawlyszcze 4 klasa\Tablica dwuwymiarowa\obj\Debug\Tablica dwuwymiarowa.csproj.AssemblyReference.cache
+D:\Pawlyszcze 4 klasa\Tablica dwuwymiarowa\obj\Debug\Tablica_dwuwymiarowa.Tablice_dwuwymiarowe.resources
+D:\Pawlyszcze 4 klasa\Tablica dwuwymiarowa\obj\Debug\Tablica_dwuwymiarowa.Properties.Resources.resources
+D:\Pawlyszcze 4 klasa\Tablica dwuwymiarowa\obj\Debug\Tablica dwuwymiarowa.csproj.GenerateResource.cache
+D:\Pawlyszcze 4 klasa\Tablica dwuwymiarowa\obj\Debug\Tablica dwuwymiarowa.csproj.CoreCompileInputs.cache
+D:\Pawlyszcze 4 klasa\Tablica dwuwymiarowa\obj\Debug\Tablica dwuwymiarowa.exe
+D:\Pawlyszcze 4 klasa\Tablica dwuwymiarowa\obj\Debug\Tablica dwuwymiarowa.pdb
+D:\Pawlyszcze 4 klasa\Tablica dwuwymiarowa\obj\Debug\Tablica dwuwymiarowa.exe.config
