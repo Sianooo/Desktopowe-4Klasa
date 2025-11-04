@@ -1,0 +1,11 @@
+D:\Pawlyszcze 4 klasa\Tablice\bin\Debug\Tablice.exe.config
+D:\Pawlyszcze 4 klasa\Tablice\bin\Debug\Tablice.exe
+D:\Pawlyszcze 4 klasa\Tablice\bin\Debug\Tablice.pdb
+D:\Pawlyszcze 4 klasa\Tablice\obj\Debug\Tablice.csproj.AssemblyReference.cache
+D:\Pawlyszcze 4 klasa\Tablice\obj\Debug\Tablice.Form1.resources
+D:\Pawlyszcze 4 klasa\Tablice\obj\Debug\Tablice.Properties.Resources.resources
+D:\Pawlyszcze 4 klasa\Tablice\obj\Debug\Tablice.csproj.GenerateResource.cache
+D:\Pawlyszcze 4 klasa\Tablice\obj\Debug\Tablice.csproj.CoreCompileInputs.cache
+D:\Pawlyszcze 4 klasa\Tablice\obj\Debug\Tablice.exe
+D:\Pawlyszcze 4 klasa\Tablice\obj\Debug\Tablice.pdb
+D:\Pawlyszcze 4 klasa\Tablice\obj\Debug\Tablice.exe.config
