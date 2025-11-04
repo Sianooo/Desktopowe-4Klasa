@@ -1,0 +1,22 @@
+E:\desktopowe\tabele\Tabela\Tabela\bin\Debug\Tabela.exe.config
+E:\desktopowe\tabele\Tabela\Tabela\bin\Debug\Tabela.exe
+E:\desktopowe\tabele\Tabela\Tabela\bin\Debug\Tabela.pdb
+E:\desktopowe\tabele\Tabela\Tabela\obj\Debug\Tabela.csproj.AssemblyReference.cache
+E:\desktopowe\tabele\Tabela\Tabela\obj\Debug\Tabela.Form1.resources
+E:\desktopowe\tabele\Tabela\Tabela\obj\Debug\Tabela.Properties.Resources.resources
+E:\desktopowe\tabele\Tabela\Tabela\obj\Debug\Tabela.csproj.GenerateResource.cache
+E:\desktopowe\tabele\Tabela\Tabela\obj\Debug\Tabela.csproj.CoreCompileInputs.cache
+E:\desktopowe\tabele\Tabela\Tabela\obj\Debug\Tabela.exe
+E:\desktopowe\tabele\Tabela\Tabela\obj\Debug\Tabela.pdb
+E:\desktopowe\tabele\Tabela\Tabela\obj\Debug\Tabela.exe.config
+D:\Pawlyszcze 4 klasa\Wyszukiwanie wartosci\Tabela\Tabela\bin\Debug\Tabela.exe.config
+D:\Pawlyszcze 4 klasa\Wyszukiwanie wartosci\Tabela\Tabela\bin\Debug\Tabela.exe
+D:\Pawlyszcze 4 klasa\Wyszukiwanie wartosci\Tabela\Tabela\bin\Debug\Tabela.pdb
+D:\Pawlyszcze 4 klasa\Wyszukiwanie wartosci\Tabela\Tabela\obj\Debug\Tabela.csproj.AssemblyReference.cache
+D:\Pawlyszcze 4 klasa\Wyszukiwanie wartosci\Tabela\Tabela\obj\Debug\Tabela.exe.config
+D:\Pawlyszcze 4 klasa\Wyszukiwanie wartosci\Tabela\Tabela\obj\Debug\Tabela.Form1.resources
+D:\Pawlyszcze 4 klasa\Wyszukiwanie wartosci\Tabela\Tabela\obj\Debug\Tabela.Properties.Resources.resources
+D:\Pawlyszcze 4 klasa\Wyszukiwanie wartosci\Tabela\Tabela\obj\Debug\Tabela.csproj.GenerateResource.cache
+D:\Pawlyszcze 4 klasa\Wyszukiwanie wartosci\Tabela\Tabela\obj\Debug\Tabela.csproj.CoreCompileInputs.cache
+D:\Pawlyszcze 4 klasa\Wyszukiwanie wartosci\Tabela\Tabela\obj\Debug\Tabela.exe
+D:\Pawlyszcze 4 klasa\Wyszukiwanie wartosci\Tabela\Tabela\obj\Debug\Tabela.pdb
