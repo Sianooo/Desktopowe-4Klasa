@@ -127,7 +127,7 @@ namespace Tabela
             }
         }
 
-        private void sortowaniePrzezSkalanie(int[] tab,int p, int k)
+        private void sortowaniePrzezSkalanie(int[] tab, int p, int k)
         {
             if (p >= k) return;
             int srodek = (k + p) / 2;
@@ -136,20 +136,45 @@ namespace Tabela
             scalanie(tab, p, k);
         }
 
+        private void quickSort(int[] tab, int p, int k)
+        {
+            int srodek = tab[(p+k)/2];
+            int i, j, x;
+            i = p;
+            j=k;
+
+            do
+            {
+                while (tab[i] < srodek) i++;
+                while (tab[j] > srodek) j--;
+                if (i <= j)
+                {
+                    x = tab[i];
+                    tab[i] = tab[j];
+                    tab[j] = x;
+                    i++;j--;
+                }
+
+            } while (i <= j);
+            if(j>p)quickSort(tab,p, j);
+            if (i < k) quickSort(tab, i, k);
+        }
+
         int[] tab;
         private void button1_Click(object sender, EventArgs e)
         {
             Random random = new Random();
             tab = new int[dataGridView1.Columns.Count];
-            for (int i=0;i<10;i++)
+            for (int i = 0; i < 10; i++)
             {
-                dataGridView1.Rows[0].Cells[i].Value = random.Next(1,101);
-                tab[i]=(int)dataGridView1.Rows[0].Cells[i].Value;
+                dataGridView1.Rows[0].Cells[i].Value = random.Next(1, 101);
+                tab[i] = (int)dataGridView1.Rows[0].Cells[i].Value;
             }
             label1.Hide();
             textBox1.Hide();
             dataGridView2.Hide();
         }
+
 
         private void min_Click(object sender, EventArgs e)
         {
@@ -240,6 +265,24 @@ namespace Tabela
         {
             temp = new int[tab.Length];
             sortowaniePrzezSkalanie(tab, 0, tab.Length - 1);
+            for (int i = 0; i < tab.Length; i++)
+            {
+                dataGridView2.Rows[0].Cells[i].Value = tab[i];
+            }
+            label1.Hide();
+            textBox1.Hide();
+            dataGridView2.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            temp = new int[tab.Length];
+            quickSort(tab, 0, tab.Length - 1);
             for (int i = 0; i < tab.Length; i++)
             {
                 dataGridView2.Rows[0].Cells[i].Value = tab[i];
