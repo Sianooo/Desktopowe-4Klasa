@@ -1,0 +1,16 @@
+D:\Pawlyszcze 4 klasa\Formularze\bin\Debug\net8.0-windows\Formularze.exe
+D:\Pawlyszcze 4 klasa\Formularze\bin\Debug\net8.0-windows\Formularze.deps.json
+D:\Pawlyszcze 4 klasa\Formularze\bin\Debug\net8.0-windows\Formularze.runtimeconfig.json
+D:\Pawlyszcze 4 klasa\Formularze\bin\Debug\net8.0-windows\Formularze.dll
+D:\Pawlyszcze 4 klasa\Formularze\bin\Debug\net8.0-windows\Formularze.pdb
+D:\Pawlyszcze 4 klasa\Formularze\obj\Debug\net8.0-windows\Formularze.Form1.resources
+D:\Pawlyszcze 4 klasa\Formularze\obj\Debug\net8.0-windows\Formularze.csproj.GenerateResource.cache
+D:\Pawlyszcze 4 klasa\Formularze\obj\Debug\net8.0-windows\Formularze.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pawlyszcze 4 klasa\Formularze\obj\Debug\net8.0-windows\Formularze.AssemblyInfoInputs.cache
+D:\Pawlyszcze 4 klasa\Formularze\obj\Debug\net8.0-windows\Formularze.AssemblyInfo.cs
+D:\Pawlyszcze 4 klasa\Formularze\obj\Debug\net8.0-windows\Formularze.csproj.CoreCompileInputs.cache
+D:\Pawlyszcze 4 klasa\Formularze\obj\Debug\net8.0-windows\Formularze.dll
+D:\Pawlyszcze 4 klasa\Formularze\obj\Debug\net8.0-windows\refint\Formularze.dll
+D:\Pawlyszcze 4 klasa\Formularze\obj\Debug\net8.0-windows\Formularze.pdb
+D:\Pawlyszcze 4 klasa\Formularze\obj\Debug\net8.0-windows\Formularze.genruntimeconfig.cache
+D:\Pawlyszcze 4 klasa\Formularze\obj\Debug\net8.0-windows\ref\Formularze.dll
