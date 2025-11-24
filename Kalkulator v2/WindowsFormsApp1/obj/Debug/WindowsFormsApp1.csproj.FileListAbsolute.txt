@@ -1,0 +1,20 @@
+D:\Pawlyszcze 4 klasa\Kalkulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Pawlyszcze 4 klasa\Kalkulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Pawlyszcze 4 klasa\Kalkulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Pawlyszcze 4 klasa\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Pawlyszcze 4 klasa\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Pawlyszcze 4 klasa\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Pawlyszcze 4 klasa\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Pawlyszcze 4 klasa\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Pawlyszcze 4 klasa\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Pawlyszcze 4 klasa\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DESKTOPOWE\VISUAL STUDIO\DZIAL_1\Kalkulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DESKTOPOWE\VISUAL STUDIO\DZIAL_1\Kalkulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DESKTOPOWE\VISUAL STUDIO\DZIAL_1\Kalkulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DESKTOPOWE\VISUAL STUDIO\DZIAL_1\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\DESKTOPOWE\VISUAL STUDIO\DZIAL_1\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\DESKTOPOWE\VISUAL STUDIO\DZIAL_1\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DESKTOPOWE\VISUAL STUDIO\DZIAL_1\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\DESKTOPOWE\VISUAL STUDIO\DZIAL_1\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\DESKTOPOWE\VISUAL STUDIO\DZIAL_1\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DESKTOPOWE\VISUAL STUDIO\DZIAL_1\Kalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
