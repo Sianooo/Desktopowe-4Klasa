@@ -83,15 +83,15 @@
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(317, 124);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(132, 22);
             this.textBox1.TabIndex = 3;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(317, 161);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox2.Location = new System.Drawing.Point(319, 164);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(132, 22);
             this.textBox2.TabIndex = 4;
@@ -99,7 +99,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(317, 217);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(49, 30);
             this.button1.TabIndex = 5;
@@ -120,7 +120,7 @@
             // textBox3
             // 
             this.textBox3.Location = new System.Drawing.Point(317, 300);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(4);
             this.textBox3.Name = "textBox3";
             this.textBox3.ReadOnly = true;
             this.textBox3.Size = new System.Drawing.Size(216, 22);
@@ -129,7 +129,7 @@
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(400, 217);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(51, 28);
             this.button2.TabIndex = 8;
@@ -140,7 +140,7 @@
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(475, 218);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.button3.Size = new System.Drawing.Size(41, 28);
@@ -152,7 +152,7 @@
             // button4
             // 
             this.button4.Location = new System.Drawing.Point(231, 217);
-            this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(51, 28);
             this.button4.TabIndex = 10;
@@ -163,7 +163,7 @@
             // button5
             // 
             this.button5.Location = new System.Drawing.Point(540, 218);
-            this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(64, 28);
             this.button5.TabIndex = 11;
@@ -174,7 +174,7 @@
             // button6
             // 
             this.button6.Location = new System.Drawing.Point(117, 217);
-            this.button6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button6.Margin = new System.Windows.Forms.Padding(4);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(93, 28);
             this.button6.TabIndex = 12;
@@ -185,7 +185,7 @@
             // button7
             // 
             this.button7.Location = new System.Drawing.Point(177, 255);
-            this.button7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button7.Margin = new System.Windows.Forms.Padding(4);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(77, 28);
             this.button7.TabIndex = 13;
@@ -196,7 +196,7 @@
             // button8
             // 
             this.button8.Location = new System.Drawing.Point(272, 255);
-            this.button8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button8.Margin = new System.Windows.Forms.Padding(4);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(80, 28);
             this.button8.TabIndex = 14;
@@ -207,7 +207,7 @@
             // button9
             // 
             this.button9.Location = new System.Drawing.Point(376, 254);
-            this.button9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button9.Margin = new System.Windows.Forms.Padding(4);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(109, 28);
             this.button9.TabIndex = 15;
@@ -218,7 +218,7 @@
             // button10
             // 
             this.button10.Location = new System.Drawing.Point(509, 254);
-            this.button10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button10.Margin = new System.Windows.Forms.Padding(4);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(52, 28);
             this.button10.TabIndex = 16;
@@ -248,7 +248,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Kalkulator prosty";
             this.ResumeLayout(false);
