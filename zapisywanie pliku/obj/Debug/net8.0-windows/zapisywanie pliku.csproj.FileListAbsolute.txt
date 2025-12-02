@@ -1,0 +1,16 @@
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\bin\Debug\net8.0-windows\zapisywanie pliku.exe
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\bin\Debug\net8.0-windows\zapisywanie pliku.deps.json
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\bin\Debug\net8.0-windows\zapisywanie pliku.runtimeconfig.json
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\bin\Debug\net8.0-windows\zapisywanie pliku.dll
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\bin\Debug\net8.0-windows\zapisywanie pliku.pdb
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\obj\Debug\net8.0-windows\zapisywanie_pliku.Form1.resources
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\obj\Debug\net8.0-windows\zapisywanie pliku.csproj.GenerateResource.cache
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\obj\Debug\net8.0-windows\zapisywanie pliku.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\obj\Debug\net8.0-windows\zapisywanie pliku.AssemblyInfoInputs.cache
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\obj\Debug\net8.0-windows\zapisywanie pliku.AssemblyInfo.cs
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\obj\Debug\net8.0-windows\zapisywanie pliku.csproj.CoreCompileInputs.cache
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\obj\Debug\net8.0-windows\zapisywanie pliku.dll
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\obj\Debug\net8.0-windows\refint\zapisywanie pliku.dll
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\obj\Debug\net8.0-windows\zapisywanie pliku.pdb
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\obj\Debug\net8.0-windows\zapisywanie pliku.genruntimeconfig.cache
+D:\DESKTOPOWE\VISUAL STUDIO\zapisywanie pliku\obj\Debug\net8.0-windows\ref\zapisywanie pliku.dll
