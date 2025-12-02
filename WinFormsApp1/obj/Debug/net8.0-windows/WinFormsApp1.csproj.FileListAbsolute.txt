@@ -1,0 +1,16 @@
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\DESKTOPOWE\VISUAL STUDIO\FORMULARZYKI\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
