@@ -1,0 +1,32 @@
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\bin\Debug\net8.0-windows\zad1.exe
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\bin\Debug\net8.0-windows\zad1.deps.json
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\bin\Debug\net8.0-windows\zad1.runtimeconfig.json
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\bin\Debug\net8.0-windows\zad1.dll
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\bin\Debug\net8.0-windows\zad1.pdb
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.Form1.resources
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.csproj.GenerateResource.cache
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.AssemblyInfoInputs.cache
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.AssemblyInfo.cs
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.csproj.CoreCompileInputs.cache
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.dll
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\refint\zad1.dll
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.pdb
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.genruntimeconfig.cache
+C:\Users\Uczeń\Desktop\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\ref\zad1.dll
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\bin\Debug\net8.0-windows\zad1.exe
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\bin\Debug\net8.0-windows\zad1.deps.json
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\bin\Debug\net8.0-windows\zad1.runtimeconfig.json
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\bin\Debug\net8.0-windows\zad1.dll
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\bin\Debug\net8.0-windows\zad1.pdb
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.Form1.resources
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.csproj.GenerateResource.cache
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.AssemblyInfoInputs.cache
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.AssemblyInfo.cs
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.csproj.CoreCompileInputs.cache
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.dll
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\refint\zad1.dll
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.pdb
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\zad1.genruntimeconfig.cache
+D:\DESKTOPOWE\VISUAL STUDIO\Sprawdziany\Sanowski 4pr\zad1\obj\Debug\net8.0-windows\ref\zad1.dll
