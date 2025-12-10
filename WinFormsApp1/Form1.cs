@@ -1,4 +1,4 @@
-namespace WinFormsApp1
+ï»¿namespace WinFormsApp1
 {
     public partial class Form1 : Form
     {
@@ -42,31 +42,31 @@ namespace WinFormsApp1
         private void potencjalnaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             wybor = 1;
-            PokazFormularz("Podaj wysokoœæ obiektu (m)", "Podaj masê obiektu (kg)", "Oblicz Ep");
+            PokazFormularz("Podaj wysokoÅ›Ä‡ obiektu (m)", "Podaj masÄ™ obiektu (kg)", "Oblicz Ep");
         }
 
         private void kinetycznaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             wybor = 2;
-            PokazFormularz("Podaj prêdkoœæ obiektu (m/s)", "Podaj masê obiektu (kg)", "Oblicz Ek");
+            PokazFormularz("Podaj prÄ™dkoÅ›Ä‡ obiektu (m/s)", "Podaj masÄ™ obiektu (kg)", "Oblicz Ek");
         }
 
         private void predkoscToolStripMenuItem_Click(object sender, EventArgs e)
         {
             wybor = 3;
-            PokazFormularz("Podaj drogê (w metrach)", "Podaj czas (w sekundach)", "Oblicz prêdkoœæ");
+            PokazFormularz("Podaj drogÄ™ (w metrach)", "Podaj czas (w sekundach)", "Oblicz prÄ™dkoÅ›Ä‡");
         }
 
         private void drogaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             wybor = 4;
-            PokazFormularz("Podaj prêdkoœæ (m/s)", "Podaj czas (w sekundach)", "Oblicz drogê");
+            PokazFormularz("Podaj prÄ™dkoÅ›Ä‡ (m/s)", "Podaj czas (w sekundach)", "Oblicz drogÄ™");
         }
 
         private void czasToolStripMenuItem_Click(object sender, EventArgs e)
         {
             wybor = 5;
-            PokazFormularz("Podaj drogê (w metrach)", "Podaj prêdkoœæ (m/s)", "Oblicz czas");
+            PokazFormularz("Podaj drogÄ™ (w metrach)", "Podaj prÄ™dkoÅ›Ä‡ (m/s)", "Oblicz czas");
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -116,7 +116,7 @@ namespace WinFormsApp1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void button2_Click_1(object sender, EventArgs e)
@@ -145,7 +145,7 @@ namespace WinFormsApp1
                 if (linia.StartsWith(nazwisko + ";"))
                 {
                     string punkty = linia.Split(';')[1];
-                    MessageBox.Show($"Witaj {nazwisko}!\nMasz {punkty} punktów");
+                    MessageBox.Show($"Witaj {nazwisko}!\nMasz {punkty} punktÃ³w");
                     znaleziono = true;
                     break;
                 }
@@ -154,11 +154,80 @@ namespace WinFormsApp1
             if (!znaleziono)
             {
                 File.AppendAllText(plik, nazwisko + ";0" + Environment.NewLine);
-                MessageBox.Show($"Witaj {nazwisko}!\nZosta³eœ dodany – masz 0 punktów");
+                MessageBox.Show($"Witaj {nazwisko}!\nZostaÅ‚eÅ› dodany â€“ masz 0 punktÃ³w");
+                label5.Visible = true;
+                label6.Visible = true;
+                label7.Visible = true;
+                label8.Visible = true;
+                label9.Visible = true;
+                comboBox1.Visible = true;
+                checkBox1.Visible = true;
+                checkBox2.Visible = true;
+                checkBox3.Visible = true;
+                checkBox4.Visible = true;
+                textBox5.Visible = true;
+                radioButton1.Visible = true;
+                radioButton2.Visible = true;
+                radioButton4.Visible = true;
+                button3.Visible = true;
+                listBox1.Visible = true;
             }
 
             textBox4.Text = "";
             textBox4.Focus();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int punkty = 0;
+
+            if (comboBox1.SelectedItem != null && comboBox1.SelectedItem.ToString().Contains("9,8 m/sÂ²"))
+                punkty++;
+
+            if (checkBox4.Checked)
+                punkty++;
+
+            string odpowiedz = textBox5.Text.Trim();
+            if (odpowiedz.Replace(" ", "").ToLower() == "p=u*i" ||
+                odpowiedz.Replace(" ", "").ToLower() == "p=ui" ||
+                odpowiedz.Contains("UÂ·I") ||
+                odpowiedz.Contains("U*I"))
+                punkty++;
+
+            if (radioButton1.Checked)
+                punkty++;
+
+            if (listBox1.SelectedItems.Count == 2)
+            {
+                bool maPredkosc = false;
+                bool maMasa = false;
+
+                foreach (string item in listBox1.SelectedItems)
+                {
+                    if (item.Contains("Zwiekszenie ") || item.Contains("Zwiekszanie")) maPredkosc = true;
+                    if (item.Contains("Wykonanie") || item.Contains("Wykonanie")) maMasa = true;
+                }
+
+                if (maPredkosc && maMasa)
+                    punkty++;
+            }
+
+            MessageBox.Show($"ZdobyÅ‚eÅ› {punkty} z 5 punktÃ³w!", "Wynik testu", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
